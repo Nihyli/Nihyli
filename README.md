@@ -6,7 +6,7 @@
   <a href="mailto:yhailu006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Nihyli/Nihyli/main/assets/code-cat.svg" alt="const yohannes = { code, stack, into } — with a sleeping cat on top" width="894" />
+<img src="https://raw.githubusercontent.com/Nihyli/Nihyli/main/assets/code-cat.png" alt="const yohannes = { code, stack, into } — with a sleeping cat on top" width="894" />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nihyli&theme=github_dark" height="165" alt="stats" />
