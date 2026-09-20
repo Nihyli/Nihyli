@@ -48,8 +48,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nihyli&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&icon_color=A2E635&title_color=A2E635&text_color=c9d1d9&bg_color=0d1117" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihyli&layout=compact&hide_title=true&hide_border=true&theme=github_dark&title_color=A2E635&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="165" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nihyli&theme=github_dark" height="165" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nihyli&theme=github_dark" height="165" alt="most used languages" />
 </p>
 
 <p align="center">
