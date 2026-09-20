@@ -1,12 +1,6 @@
 <h1 align="center">Yohannes Hailu</h1>
 
 <p align="center">
-  <a href="https://www.yohannes.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=560&lines=Full-stack+%2B+AI+engineer.;Shipping+systems+that+hold+up+in+prod.;SAP+%C2%B7+ex-Lockheed+Martin+%C2%B7+ex-Aviture." alt="typing" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.yohannes.dev"><img src="https://img.shields.io/badge/Portfolio-yohannes.dev-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/yohanneshailu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yhailu006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
