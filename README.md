@@ -7,12 +7,14 @@
 </p>
 
 ```typescript
+//       |\      _,,,---,,_
+// ZZZzz /,`.-'`'    -.  ;-;;,_
+//      |,4-  ) )-,_. ,\ (  `'-'
+//     '---''(_/--'  `-'\_)
 const yohannes = {
-  currently:  "SAP iXp — AI Solutions Advisory",
-  previously: ["Lockheed Martin", "Aviture"],
-  code:       ["TypeScript", "Python", "Java", "SQL"],
-  stack:      ["React", "Next.js", "Spring Boot", "PostgreSQL", "AWS"],
-  shipped:    "production features on a platform with 1M+ downloads",
+  code:  ["TypeScript", "Python", "Java", "SQL"],
+  stack: ["React", "Next.js", "Spring Boot", "PostgreSQL", "AWS"],
+  into:  ["full-stack", "ai systems", "clean execution"],
 };
 ```
 
