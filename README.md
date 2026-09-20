@@ -7,7 +7,7 @@
 </p>
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/Nihyli/Nihyli/main/assets/sleepy-cat.svg" alt="sleeping cat" width="220" />
+  <img align="right" src="https://raw.githubusercontent.com/Nihyli/Nihyli/main/assets/sleepy-cat.svg" alt="sleeping cat" width="140" />
 </div>
 
 ```typescript
