@@ -12,9 +12,11 @@
 
 ```typescript
 const yohannes = {
-  code:  ["TypeScript", "Python", "Java", "SQL"],
-  stack: ["React", "Next.js", "Spring Boot", "PostgreSQL", "AWS"],
-  into:  ["full-stack", "ai systems", "clean execution"],
+  currently:  "SAP iXp — AI Solutions Advisory",
+  previously: ["Lockheed Martin", "Aviture"],
+  code:       ["TypeScript", "Python", "Java", "SQL"],
+  stack:      ["React", "Next.js", "Spring Boot", "PostgreSQL", "AWS"],
+  shipped:    "production features on a platform with 1M+ downloads",
 };
 ```
 
