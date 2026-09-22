@@ -1,7 +1,7 @@
 <h1 align="center">Yohannes Hailu</h1>
 
 <p align="center">
-  <a href="https://www.yohannes.dev"><img src="https://img.shields.io/badge/Portfolio-yohannes.dev-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.yohannes.dev"><img src="https://img.shields.io/badge/Portfolio-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/yohanneshailu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yhailu006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
